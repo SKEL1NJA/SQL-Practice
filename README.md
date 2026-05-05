@@ -14,15 +14,15 @@
 
 # 
 
-# \* Basics (CREATE, INSERT, SELECT)
+# \- Basics (CREATE, INSERT, SELECT)
 
-# \* Joins (INNER, LEFT, RIGHT)
+# \- Joins (INNER, LEFT, RIGHT)
 
-# \* Aggregations (GROUP BY, HAVING)
+# \- Aggregations (GROUP BY, HAVING)
 
-# \* Subqueries
+# \- Subqueries
 
-# \* Practice Problems
+# \- Practice Problems
 
 # 
 
@@ -33,6 +33,8 @@
 # \## 📂 Folder Structure
 
 # 
+
+# ```
 
 # SQL-Practice/
 
@@ -49,6 +51,8 @@
 # ├── problems/
 
 # └── README.md
+
+# ```
 
 # 
 
@@ -76,15 +80,15 @@
 
 # 
 
-# \* Day 1: Basics
+# \- Day 1: Basics
 
-# \* Day 2: Filtering
+# \- Day 2: Filtering
 
-# \* Day 3: Joins
+# \- Day 3: Joins
 
-# \* Day 4: Aggregations
+# \- Day 4: Aggregations
 
-# \* Day 5: Subqueries
+# \- Day 5: Subqueries
 
 # 
 
@@ -109,6 +113,4 @@
 # 
 
 # Uday Khanna
-
-
 

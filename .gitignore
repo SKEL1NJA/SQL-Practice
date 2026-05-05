@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# MySQL dump files
+*.sql.backup
+
+# Environment / config (future use)
+.env
