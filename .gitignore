@@ -13,3 +13,4 @@ Thumbs.db
 
 # Environment / config (future use)
 .env
+.vscode
